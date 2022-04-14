@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "name": "Mayur",
+      "age": "24",
+      "date_of_birth": "1997-09-03",
+      "state_of_residence": "Maharashtra",
+      "address": "Bhusawal",
+      "pin_code": "425201",
+      "id": 1
+    }
+  ]
+}
